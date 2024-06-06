@@ -1,0 +1,20 @@
+#gameLogo {
+    height: 50px;
+}
+
+#navbarNavDropdown {
+    margin-left: 10px;
+}
+
+
+@media (max-width: 322px) {
+    #gameLogo {
+     height: 30px;   
+    }
+    #togglerNavBar {
+        font-size: 0.8rem;
+    }
+    #navbarNavDropdown {
+        font-size: 0.8rem;
+    }
+}
